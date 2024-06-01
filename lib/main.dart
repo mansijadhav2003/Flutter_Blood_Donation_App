@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget{
   Widget build(BuildContext context){
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: First(),//First Screen 
+      home: First(),//First Screen
     );
   }
 }
